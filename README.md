@@ -223,7 +223,3 @@ The platform is architected for production deployment:
 
 ---
 
-## Author
-
-**Ujjwal Verma**
-Enterprise Lead Automation Platform — FastAPI + React + PostgreSQL + Redis + Celery
